@@ -5,6 +5,7 @@ A full-stack-ready, role-based Goal Management System built with React + Vite + 
 
 ---
 
+
 ## 🚀 Run Locally (3 commands)
 
 ```bash
@@ -13,7 +14,7 @@ npm install
 npm run dev
 ```
 
-Open → **atom-goals-v1-0-8cf4y66vc-vaishnavi-s-projects8.vercel.app**
+Open → **[atom-goals-v1-0-8cf4y66vc-vaishnavi-s-projects8.vercel.app](https://atom-goals-v1-0-8cf4y66vc-vaishnavi-s-projects8.vercel.app/login)**
 
 ---
 
