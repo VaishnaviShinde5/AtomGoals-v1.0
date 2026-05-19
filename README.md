@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Open → **http://localhost:5173**
+Open → **atom-goals-v1-0-8cf4y66vc-vaishnavi-s-projects8.vercel.app**
 
 ---
 
